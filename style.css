@@ -48,14 +48,5 @@ input {
     margin-right: 29%;
     margin-top:20px;
     width: 502px;
-    text-rendering: auto;
-    color: initial;
-    letter-spacing: normal;
-    word-spacing: normal;
-    text-transform: none;
-    text-indent: 0px;
-    text-shadow: none;
-    display: inline-block;
-    text-align: start;
-    font: 400 11px;
+    height: 25px;
 }
